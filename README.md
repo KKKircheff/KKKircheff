@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KKKircheff
-- 👀 Interested in Java Script, HTML, CSS, React, blockchain & smart contracts
-- 🌱 Aspired coder currently mastering Web Development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 Programmer JavaScript, Typescript, NodeJS, ReactJS, SCSS, Langchain & AI
+- 🌱 Passion in Web Development and AI 
+- 💞️ I’m looking to collaborate on frelance front-end, back-end and AI projects
 - 📫 How to reach me kircheff@protonmail.com
 
 <!---
